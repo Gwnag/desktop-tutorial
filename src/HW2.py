@@ -76,8 +76,5 @@ a=time.time()
 selectionSort(list_4)
 b=time.time()
 print("1-7수행시간",b-a)
-
-
-
-
+print("1-7수행시간",b-a)
 
